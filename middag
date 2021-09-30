@@ -4,4 +4,6 @@ int main() {
 
 std::cout << "Fiskkaker" << std::endl;
 
+std..cout << "suppe" << std::endl;
+
 }
